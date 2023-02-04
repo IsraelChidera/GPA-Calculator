@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\GPA-Calculator-Console-App\bin\Debug\net6.0\GPA-Calculator-Console-App.exe
+C:\Users\Admin\source\repos\GPA-Calculator-Console-App\bin\Debug\net6.0\GPA-Calculator-Console-App.deps.json
+C:\Users\Admin\source\repos\GPA-Calculator-Console-App\bin\Debug\net6.0\GPA-Calculator-Console-App.runtimeconfig.json
+C:\Users\Admin\source\repos\GPA-Calculator-Console-App\bin\Debug\net6.0\GPA-Calculator-Console-App.dll
+C:\Users\Admin\source\repos\GPA-Calculator-Console-App\bin\Debug\net6.0\GPA-Calculator-Console-App.pdb
+C:\Users\Admin\source\repos\GPA-Calculator-Console-App\obj\Debug\net6.0\GPA-Calculator-Console-App.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\GPA-Calculator-Console-App\obj\Debug\net6.0\GPA-Calculator-Console-App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\GPA-Calculator-Console-App\obj\Debug\net6.0\GPA-Calculator-Console-App.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\GPA-Calculator-Console-App\obj\Debug\net6.0\GPA-Calculator-Console-App.AssemblyInfo.cs
+C:\Users\Admin\source\repos\GPA-Calculator-Console-App\obj\Debug\net6.0\GPA-Calculator-Console-App.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\GPA-Calculator-Console-App\obj\Debug\net6.0\GPA-Calculator-Console-App.dll
+C:\Users\Admin\source\repos\GPA-Calculator-Console-App\obj\Debug\net6.0\refint\GPA-Calculator-Console-App.dll
+C:\Users\Admin\source\repos\GPA-Calculator-Console-App\obj\Debug\net6.0\GPA-Calculator-Console-App.pdb
+C:\Users\Admin\source\repos\GPA-Calculator-Console-App\obj\Debug\net6.0\GPA-Calculator-Console-App.genruntimeconfig.cache
+C:\Users\Admin\source\repos\GPA-Calculator-Console-App\obj\Debug\net6.0\ref\GPA-Calculator-Console-App.dll
